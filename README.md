@@ -1,4 +1,5 @@
-# PorkbunSetUpPageBak porkbun域名提供商域名建立页的个人备份页
+# Porkbun set up pages bakup with customization modules
+# porkbun域名提供商域名建立页的个人备份页
 
 此文件已经被鄙人修改为自定义模板了，并不是原件，目前此仓库作为个人跳转使用，之前的jumpBlog仓库已被历史归档
 
